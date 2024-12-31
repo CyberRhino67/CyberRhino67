@@ -15,7 +15,7 @@ Having completed my BrainStation cybersecurity diploma, I’ve gained experience
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Risk Assessment                               | <a href="https://docs.google.com/document/d/10xn8ThfSljUPTr9kO6uX370gAy_pDsJw8s4xTot6XqU/edit?tab=t.0#heading=h.iib8bhkuqsn1">Risk Assesment </a>|
-| Network Traffic Monitoring and Encryption Detection | <a href="https://docs.google.com/document/d/1AQWak3wmpduVUiA-6JL4YSQ1EeXNBWLED3HzrbKpjqo/edit?usp=sharing">Encryption Report</a>|
+| Network Traffic Monitoring and Encryption Detection | <a href="https://docs.google.com/document/d/1dZ006bR03oQ26Zz4UDbOq-2o2SDB-admB_M60LsMpeo/edit?tab=t.0">Encryption Report</a>|
 | Security Automation with Alienvault OTX IOC, Wazuh SIEM, & Shuffle SOAR         | <a href="https://docs.google.com/document/d/1FztTUyyVWfV5q5CtpAXLqeV5coMEOHtgPY5FgwjDKps/edit?tab=t.0#heading=h.5uoc4mfz7mn4">SOC & Automation Report|
 | Cybersecurity Risk Assessment, Threat Modeling, Network and Data Security, Third-Party Risk, Incident Response Planning, Business Continuity Planning & Executive Presentation      |  <a href="https://www.canva.com/design/DAGC3hoP0XU/6E0URqoasalnJwT7cPxBSA/edit?utm_content=DAGC3hoP0XU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Capstone Project|
 | Python Encryption & Decryption Tool                 | <a href="https://1drv.ms/u/s!Ajjze_n8MW5N_XX9R1KSf-UE3TrE?e=tFqesJ"> Python|
