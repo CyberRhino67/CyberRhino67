@@ -58,5 +58,7 @@ Having completed my BrainStation cybersecurity diploma, I’ve gained experience
 </div>
 
 ## Projects
-- Detection Lab
+- Honeypot Project
 - SOC Automation Project
+- CTF (Capture The Flag) Challenges
+- Malware Analysis
